@@ -28,7 +28,7 @@
 // of the authors and should not be interpreted as representing official policies, 
 // either expressed or implied, of the FreeBSD Project.
 //
-// https://github.com/carlosrafaelgn/KinectTranslator/blob/master/KinectTranslator.h
+// https://github.com/carlosrafaelgn/KinectTranslator/blob/master/KinectTranslator/KinectTranslator.h
 //
 #pragma once
 
