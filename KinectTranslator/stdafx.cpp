@@ -1,5 +1,5 @@
 //
-// stdafx.cpp is distributed under the FreeBSD License
+// KinectTranslator is distributed under the FreeBSD License
 //
 // Copyright (c) 2012, Carlos Rafael Gimenes das Neves
 // All rights reserved.
@@ -28,6 +28,6 @@
 // of the authors and should not be interpreted as representing official policies, 
 // either expressed or implied, of the FreeBSD Project.
 //
-// https://github.com/carlosrafaelgn/KinectTranslator/blob/master/KinectTranslator/stdafx.cpp
+// https://github.com/carlosrafaelgn/KinectTranslator
 //
 #include "stdafx.h"
