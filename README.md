@@ -14,3 +14,5 @@ Kinect Translator has been created with all that in mind. The software has no ma
 The default UI language is English, but once a configuration file is created, along with a Unicode translation file, it is possible to change the language (the committed configuration file sets the language to Portuguese).
 
 For more information, check out the website http://carlosrafaelgn.com.br/Scratch (in Portuguese, for now...)
+
+This projected is licensed under the terms of the FreeBSD License. See LICENSE.txt for more details.
