@@ -13,6 +13,10 @@ Kinect Translator has been created with all that in mind. The software has no ma
 
 The default UI language is English, but once a configuration file is created, along with a Unicode translation file, it is possible to change the language (the committed configuration file sets the language to Portuguese).
 
+In order to execute this program, you will need [Kinect for Windows Runtime v1.8](https://www.microsoft.com/en-us/download/details.aspx?id=40277) (you can try to download and install [Kinect for Windows Runtime v1.5](http://go.microsoft.com/fwlink/?LinkId=253187) for older Windows versions).
+
+If you plan to rebuild this source code or if you intend to move further into Kinect development for Windows, you should skip downloading Kinect for Windows Runtime and should install [Kinect for Windows SDK v1.8](https://www.microsoft.com/en-us/download/details.aspx?id=40278) instead, which already comes with all necessary runtime files.
+
 For more information, check out the website http://carlosrafaelgn.com.br/Scratch (in Portuguese, for now...)
 
 This projected is licensed under the terms of the FreeBSD License. See LICENSE.txt for more details.
